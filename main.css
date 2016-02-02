@@ -1,0 +1,25 @@
+#chart.ui-widget-content {
+    background-color:#ffffff;
+    background-image:none;
+    border:none;
+}
+
+#draggable-title.ui-widget-content {
+  foreground-color:#cccccc;
+  background-color:#ffffff;
+  background-image:none;
+  border:none;
+}
+
+.axis line {
+  stroke: #000;
+}
+
+.axis path {
+  fill: none;
+  stroke: #000;
+}
+
+.axis + .axis g text {
+  display: none;
+}
