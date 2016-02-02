@@ -1,0 +1,19 @@
+{
+  "name": "EuroStar_Demo",
+  "version": "0.0.0",
+  "authors": [
+    "Shing Lyu <shing.lyu@gmail.com>"
+  ],
+  "license": "MPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.14",
+    "radar-chart-d3": "https://github.com/alangrafu/radar-chart-d3.git#~1.2.1"
+  }
+}
